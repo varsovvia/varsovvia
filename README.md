@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @varsovvia
+- 👋 Hi, I’m @varsovvia, first year AI degree student
 - 👀 I’m interested in AI, Python, ML 
 - 🌱 I’m currently learning to code in Python
 
